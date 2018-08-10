@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dnavarrom/aws-cost-explorer.git"
+    "url": "git+https://github.com/jaysoniscale/aws-cost-explorer.git"
   },
   "keywords": [
     "AWS",
@@ -25,12 +25,7 @@
     "Explorer",
     "Costs"
   ],
-  "author": "Diego Navarro M",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dnavarrom/aws-cost-explorer/issues"
-  },
-  "homepage": "https://github.com/dnavarrom/aws-cost-explorer#readme",
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^4.0.1"
